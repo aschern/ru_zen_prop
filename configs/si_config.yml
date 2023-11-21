@@ -1,0 +1,38 @@
+---------------dataset params---------------
+
+train_data_folder: datasets/train-articles
+test_data_folder: datasets/dev-articles
+labels_path: datasets/train-task1-SI.labels
+gold_annot_file: results/dev-task-SI.labels # inspossible for real dev
+propaganda_techniques_file: tools/data/russian_corpus_techniques.txt
+data_dir: cached_datasets/SI/
+train_file: train.tsv
+dev_file: dev.tsv
+test_file: test.tsv
+split_by_ids: True
+dev_size: 0.18
+overwrite_cache: False
+
+
+----------------model params----------------
+
+use_crf: True
+output_file: SI_output_dev.txt
+predicted_labels_files: [model_checkpoints/si_roberta/test_predictions.txt]
+
+
+-------------transformers params------------
+
+model_type: roberta
+config_name: roberta-large
+#model_name_or_path: pretrained
+model_name_or_path: model_checkpoints/si_roberta/
+max_seq_length: 512
+per_gpu_train_batch_size: 4
+per_gpu_eval_batch_size: 1
+learning_rate: 1e-5
+save_steps: 3000
+warmup_steps: 500
+num_train_epochs: 25
+output_dir: model_checkpoints/si_roberta/
+do_lower_case: True

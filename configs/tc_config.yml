@@ -1,0 +1,43 @@
+---------------dataset params---------------
+
+propaganda_techniques_file: russian_corpus_techniques.txt
+train_data_folder: datasets/train-articles
+test_data_folder: datasets/dev-articles
+labels_path: datasets/train-task2-TC.labels_meta
+test_template_labels_path: datasets/dev-task-TC-template_labeled_meta.out
+ # datasets/dev-task-TC-template.out # results/SI_output_dev_TC_input.txt # datasets/dev-task-TC-template_preds.out
+test_labels_path: datasets/dev-task-TC-template_labeled_meta.out
+data_dir: cached_datasets/TC/
+train_file: train.tsv
+dev_file: dev.tsv
+test_file: test.tsv
+split_by_ids: True
+dev_size: 0.18
+balance: False
+shuffle: True
+overwrite_cache: False
+
+----------------model params----------------
+
+output_file: TC_output_dev_meta.txt
+#weights: [1, 0]
+predicted_logits_files: [model_checkpoints/tc_roberta_meta/predicted_logits]
+
+
+-------------transformers params------------
+
+task_name: prop
+model_type: roberta
+model_name_or_path: pretrained
+#model_name_or_path: model_checkpoints/si_roberta
+model_name_or_path: model_checkpoints/tc_roberta_meta
+max_seq_length: 128
+per_gpu_train_batch_size: 4
+per_gpu_eval_batch_size: 2
+gradient_accumulation_steps: 6
+learning_rate: 1e-5
+save_steps: 200
+warmup_steps: 300
+num_train_epochs: 14
+output_dir: model_checkpoints/tc_roberta_meta
+do_lower_case: True

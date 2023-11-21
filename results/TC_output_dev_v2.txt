@@ -1,0 +1,312 @@
+66	Attack on Reputation	174	186
+66	Attack on Reputation	186	223
+66	Justification	225	263
+66	Manipulation	265	369
+66	Simplification	374	540
+66	Manipulation	586	681
+66	Manipulation	739	807
+66	Call	809	872
+66	Simplification	874	1104
+66	Justification	1443	1589
+66	Simplification	1589	1857
+66	Distraction	1861	1985
+66	Distraction	1987	2188
+66	Distraction	2190	2339
+66	Manipulation	2386	2508
+66	Manipulation	2702	2774
+66	Justification	2817	2848
+115	Call	151	267
+115	Manipulation	502	649
+115	Attack on Reputation	796	897
+115	Simplification	1521	1590
+115	Distraction	2160	2483
+115	Distraction	2507	2803
+115	Distraction	2507	3012
+115	Attack on Reputation	3158	3299
+115	Justification	3664	4263
+115	Distraction	3893	4069
+115	Attack on Reputation	4349	4431
+115	Manipulation	4433	4622
+115	Attack on Reputation	4766	5133
+115	Attack on Reputation	4766	5515
+115	Simplification	5236	5457
+115	Simplification	5710	6074
+115	Attack on Reputation	6076	6127
+115	Distraction	6644	6748
+115	Distraction	6750	6909
+115	Distraction	6750	6909
+115	Attack on Reputation	6911	7406
+115	Attack on Reputation	7614	7749
+115	Distraction	7751	8337
+115	Distraction	7751	8337
+115	Attack on Reputation	8799	8971
+115	Distraction	9092	9159
+115	Attack on Reputation	9239	9301
+51	Attack on Reputation	300	365
+99	Attack on Reputation	72	85
+99	Attack on Reputation	124	135
+99	Attack on Reputation	153	167
+99	Attack on Reputation	316	329
+99	Attack on Reputation	367	379
+99	Attack on Reputation	397	411
+99	Attack on Reputation	481	519
+99	Attack on Reputation	570	583
+99	Attack on Reputation	615	637
+99	Attack on Reputation	640	676
+99	Attack on Reputation	706	869
+99	Attack on Reputation	859	994
+99	Distraction	1001	1353
+99	Attack on Reputation	1365	1393
+99	Attack on Reputation	1438	1462
+99	Justification	1642	1787
+47	Justification	213	234
+47	Justification	434	536
+47	Justification	642	856
+47	Distraction	1148	1301
+47	Distraction	1301	1504
+47	Justification	1523	1584
+47	Justification	1879	1917
+47	Attack on Reputation	1967	2097
+47	Attack on Reputation	1967	2098
+47	Justification	2144	2380
+47	Call	2692	2731
+47	Call	2927	2975
+46	Attack on Reputation	482	507
+14	Distraction	563	757
+14	Distraction	563	757
+14	Distraction	1040	1489
+14	Attack on Reputation	1491	1564
+14	Attack on Reputation	1588	1711
+14	Attack on Reputation	2158	2301
+14	Attack on Reputation	2363	2497
+14	Attack on Reputation	2363	2497
+14	Attack on Reputation	2823	3031
+14	Distraction	3060	3282
+14	Attack on Reputation	3625	3816
+14	Distraction	4089	4148
+14	Distraction	4285	4424
+14	Distraction	4425	4505
+14	Simplification	4550	4949
+14	Attack on Reputation	5543	5928
+14	Simplification	6061	6199
+14	Simplification	6061	6200
+14	Simplification	9667	9855
+110	Manipulation	0	43
+110	Manipulation	293	322
+110	Attack on Reputation	360	372
+110	Attack on Reputation	408	432
+110	Attack on Reputation	916	932
+110	Justification	959	1048
+110	Simplification	1148	1344
+110	Simplification	1349	1735
+110	Attack on Reputation	2062	2076
+110	Justification	2170	2230
+110	Attack on Reputation	2389	2403
+128	Manipulation	199	249
+128	Simplification	418	658
+128	Justification	662	805
+128	Attack on Reputation	809	821
+128	Attack on Reputation	825	848
+128	Call	825	905
+62	Attack on Reputation	263	325
+62	Distraction	517	595
+62	Simplification	1001	1055
+62	Distraction	1109	1244
+62	Distraction	1246	1420
+62	Justification	1754	1809
+62	Distraction	1905	2188
+62	Attack on Reputation	2010	2038
+62	Attack on Reputation	2056	2083
+62	Call	2189	2237
+123	Attack on Reputation	0	43
+123	Distraction	120	334
+123	Manipulation	819	1095
+123	Manipulation	819	1095
+123	Manipulation	2227	2396
+123	Simplification	2400	3033
+123	Manipulation	3185	3731
+123	Manipulation	3823	3965
+123	Simplification	3969	4240
+123	Simplification	4244	4484
+123	Manipulation	4488	5033
+123	Manipulation	5037	5540
+123	Attack on Reputation	5369	5382
+123	Attack on Reputation	6135	6641
+123	Attack on Reputation	6650	7062
+123	Simplification	7066	7502
+123	Attack on Reputation	7799	7817
+123	Justification	8045	8513
+123	Distraction	8523	8785
+123	Attack on Reputation	9576	9636
+123	Call	9686	9760
+111	Attack on Reputation	178	348
+111	Attack on Reputation	466	500
+111	Distraction	516	668
+111	Justification	1045	1061
+111	Justification	1194	1266
+111	Attack on Reputation	1278	1401
+111	Justification	1469	1552
+111	Attack on Reputation	1927	1962
+111	Justification	2017	2052
+111	Attack on Reputation	3625	3671
+111	Simplification	3673	3859
+111	Justification	3931	4338
+111	Call	4340	4443
+122	Justification	186	232
+122	Distraction	352	454
+122	Distraction	527	634
+103	Call	268	305
+103	Justification	307	413
+103	Manipulation	563	627
+103	Distraction	629	913
+103	Manipulation	1360	1588
+103	Manipulation	1590	1776
+103	Justification	4090	4248
+103	Attack on Reputation	4250	4358
+103	Attack on Reputation	4250	4358
+103	Justification	4445	4591
+103	Attack on Reputation	4593	4797
+35	Justification	371	517
+35	Call	3014	3078
+88	Attack on Reputation	69	247
+88	Attack on Reputation	326	339
+88	Attack on Reputation	373	388
+88	Attack on Reputation	390	485
+88	Attack on Reputation	435	462
+88	Justification	497	1007
+88	Attack on Reputation	535	549
+88	Attack on Reputation	602	839
+88	Manipulation	842	1007
+88	Attack on Reputation	1023	1082
+88	Attack on Reputation	1103	1334
+88	Distraction	1340	1574
+88	Attack on Reputation	1394	1404
+19	Simplification	446	2137
+19	Simplification	522	591
+19	Attack on Reputation	1423	1456
+19	Attack on Reputation	2139	2789
+19	Distraction	2853	2890
+19	Distraction	3264	3458
+19	Justification	3658	4161
+19	Manipulation	4514	5090
+19	Justification	5748	5823
+19	Justification	5926	6211
+19	Justification	6813	7029
+19	Distraction	7774	7913
+19	Attack on Reputation	8017	8034
+19	Manipulation	8474	8545
+34	Manipulation	289	495
+34	Attack on Reputation	484	494
+34	Manipulation	484	495
+34	Simplification	496	642
+34	Justification	790	867
+34	Justification	1097	1181
+34	Simplification	2032	2077
+34	Simplification	2032	2078
+34	Manipulation	2666	2735
+34	Distraction	2667	2858
+34	Distraction	2668	2858
+34	Justification	3083	3205
+34	Attack on Reputation	4084	4111
+34	Simplification	4112	4234
+34	Attack on Reputation	4614	4626
+34	Attack on Reputation	5113	5143
+34	Justification	6935	7093
+34	Attack on Reputation	7884	7992
+34	Simplification	9006	9582
+34	Simplification	9006	9583
+34	Justification	9644	9872
+34	Simplification	12451	12610
+34	Distraction	13633	13887
+34	Attack on Reputation	13957	13989
+34	Simplification	14889	15117
+34	Simplification	14889	15117
+34	Attack on Reputation	15173	15231
+34	Distraction	15232	15357
+34	Distraction	16465	16562
+34	Attack on Reputation	16788	16823
+135	Justification	171	220
+135	Simplification	374	641
+135	Manipulation	814	983
+135	Distraction	985	1275
+135	Simplification	1316	1430
+135	Attack on Reputation	1502	1510
+135	Manipulation	2101	2147
+135	Call	2147	2195
+135	Distraction	2195	2292
+135	Manipulation	2402	2429
+135	Attack on Reputation	2705	2742
+135	Attack on Reputation	2791	2825
+135	Distraction	3103	3345
+135	Manipulation	3741	3806
+135	Manipulation	3808	4003
+135	Manipulation	4412	4429
+135	Distraction	4576	4661
+135	Attack on Reputation	4663	4809
+68	Attack on Reputation	176	287
+68	Distraction	288	449
+68	Attack on Reputation	696	785
+68	Manipulation	901	1080
+68	Manipulation	1125	1364
+68	Justification	1368	1541
+68	Manipulation	1705	2120
+68	Distraction	2124	2401
+68	Simplification	2405	2483
+68	Justification	2488	2607
+68	Justification	2488	2607
+68	Distraction	2611	2729
+68	Distraction	2734	2904
+68	Call	3081	3163
+44	Justification	0	70
+44	Manipulation	1312	1349
+44	Justification	2019	2112
+44	Attack on Reputation	2216	2303
+44	Attack on Reputation	2555	2576
+44	Attack on Reputation	3359	3454
+44	Justification	4087	4148
+44	Justification	4087	4148
+44	Justification	4154	4259
+44	Attack on Reputation	5013	5065
+44	Attack on Reputation	5276	5352
+44	Justification	5721	5844
+44	Manipulation	6329	6402
+44	Attack on Reputation	6569	6692
+44	Attack on Reputation	6936	7146
+44	Attack on Reputation	6937	7146
+44	Attack on Reputation	7548	7563
+44	Attack on Reputation	7565	7703
+26	Justification	192	320
+26	Justification	347	523
+26	Justification	636	717
+26	Justification	1046	1299
+26	Justification	1302	1337
+26	Simplification	1420	1552
+26	Justification	1554	1677
+26	Justification	1710	1871
+26	Distraction	2086	2513
+26	Distraction	2516	2985
+26	Simplification	2987	3518
+26	Attack on Reputation	2988	3063
+26	Justification	3521	3906
+26	Distraction	4668	4842
+26	Justification	4962	5248
+26	Distraction	5314	5439
+26	Attack on Reputation	5537	5919
+26	Attack on Reputation	5833	5849
+26	Justification	6160	6202
+94	Justification	237	312
+94	Justification	578	659
+94	Distraction	901	1111
+94	Simplification	1201	1321
+94	Attack on Reputation	1373	1459
+94	Distraction	1461	1631
+94	Distraction	1876	2027
+94	Distraction	2036	2374
+12	Simplification	301	415
+12	Simplification	845	1306
+12	Simplification	1515	1966
+12	Simplification	3415	3746
+12	Justification	4439	4484
+12	Justification	4831	4862
+12	Justification	5126	5224
+12	Simplification	5640	5767
